@@ -1,4 +1,4 @@
-![Demo](https://user-images.githubusercontent.com/56527536/133186888-5fc0a7e3-7240-446e-95c5-6310401ff262.gif)
+![Demo]<img src="https://user-images.githubusercontent.com/56527536/133186888-5fc0a7e3-7240-446e-95c5-6310401ff262.gif" width=50% height=50%>
 
 # Simple Calculator Using HTML, CSS & JavaScript
 
